@@ -1,0 +1,15 @@
+E:\git\main\bin\Debug\net8.0\main.exe
+E:\git\main\bin\Debug\net8.0\main.deps.json
+E:\git\main\bin\Debug\net8.0\main.runtimeconfig.json
+E:\git\main\bin\Debug\net8.0\main.dll
+E:\git\main\bin\Debug\net8.0\main.pdb
+E:\git\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+E:\git\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+E:\git\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+E:\git\main\obj\Debug\net8.0\main.sourcelink.json
+E:\git\main\obj\Debug\net8.0\main.dll
+E:\git\main\obj\Debug\net8.0\refint\main.dll
+E:\git\main\obj\Debug\net8.0\main.pdb
+E:\git\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+E:\git\main\obj\Debug\net8.0\ref\main.dll
